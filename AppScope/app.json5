@@ -1,7 +1,7 @@
 {
   "app": {
-    "bundleName": "com.hmosdemos.weatherapp",
-    "vendor": "example",
+    "bundleName": "com.hmosdemos.wearable.weather_app",
+    "vendor": "hmosdemos",
     "versionCode": 1000000,
     "versionName": "1.0.0",
     "icon": "$media:layered_image",

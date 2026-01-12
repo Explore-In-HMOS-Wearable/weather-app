@@ -7,9 +7,11 @@ Simple weather application designed to provide instant temperature information f
 # Preview
 
 <div>
-   <img src="./images/output1.png" width="25%"/>
-   <img src="./images/output2.png" width="25%"/>
-   <img src="./images/output3.png" width="25%"/>
+<img src="./screenshots/output1.png" width="25%"/>
+
+<img src="./screenshots/output2.png" width="25%"/>
+
+<img src="./screenshots/output3.png" width="25%"/>
 </div>
 
 # Use Cases
@@ -33,7 +35,7 @@ Weather App is a lightweight weather application that allows users to instantly 
 - **Tools**: DevEco Studio Vers 5.1.0.842
 - **Libraries**: @kit.ArkUI, @kit.RemoteCommunicationKit
 
-# Project Directory
+# Directory Structure
 
    ```
    entry/src/main/ets/
