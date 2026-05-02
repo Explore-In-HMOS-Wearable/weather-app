@@ -16,7 +16,7 @@
         "reason": "$string:reason",
         "usedScene": {
           "abilities": [
-            "FormAbility"
+            "EntryAbility"
           ],
           "when":"inuse"
         }

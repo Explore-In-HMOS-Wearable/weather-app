@@ -3,6 +3,106 @@
     {
       "name": "start_window_background",
       "value": "#FFFFFF"
+    },
+    {
+      "name": "app_background",
+      "value": "#000000"
+    },
+    {
+      "name": "text_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_muted",
+      "value": "#8A929D"
+    },
+    {
+      "name": "text_dim",
+      "value": "#626A73"
+    },
+    {
+      "name": "city_country_text",
+      "value": "#9AA3AD"
+    },
+    {
+      "name": "city_temperature_text",
+      "value": "#C6CED8"
+    },
+    {
+      "name": "city_condition_text",
+      "value": "#A9D6E5"
+    },
+    {
+      "name": "city_row_background",
+      "value": "#171B20"
+    },
+    {
+      "name": "control_background",
+      "value": "#20262E"
+    },
+    {
+      "name": "search_background",
+      "value": "#20242A"
+    },
+    {
+      "name": "metric_tile_background",
+      "value": "#151A20"
+    },
+    {
+      "name": "weather_accent",
+      "value": "#7ED7C1"
+    },
+    {
+      "name": "progress_track",
+      "value": "#1C222A"
+    },
+    {
+      "name": "indicator_inactive",
+      "value": "#3A414A"
+    },
+    {
+      "name": "accent_feels",
+      "value": "#F4D35E"
+    },
+    {
+      "name": "accent_clouds",
+      "value": "#A8DADC"
+    },
+    {
+      "name": "accent_pressure",
+      "value": "#CDB4DB"
+    },
+    {
+      "name": "accent_wind",
+      "value": "#90DBF4"
+    },
+    {
+      "name": "accent_direction",
+      "value": "#B9FBC0"
+    },
+    {
+      "name": "accent_rain",
+      "value": "#98C1D9"
+    },
+    {
+      "name": "accent_code",
+      "value": "#F7A072"
+    },
+    {
+      "name": "accent_uv",
+      "value": "#FFD166"
+    },
+    {
+      "name": "accent_risk",
+      "value": "#EF476F"
+    },
+    {
+      "name": "accent_light",
+      "value": "#8ECAE6"
+    },
+    {
+      "name": "accent_source",
+      "value": "#BDE0FE"
     }
   ]
 }

@@ -19,6 +19,154 @@
     {
       "name": "reason",
       "value": "Reason"
+    },
+    {
+      "name": "weather_title",
+      "value": "WEATHER"
+    },
+    {
+      "name": "search_city_placeholder",
+      "value": "Search City"
+    },
+    {
+      "name": "search_city_code_placeholder",
+      "value": "City or code"
+    },
+    {
+      "name": "status_loading",
+      "value": "Loading..."
+    },
+    {
+      "name": "status_context_unavailable",
+      "value": "Context unavailable"
+    },
+    {
+      "name": "status_tap_city",
+      "value": "Tap a city for live weather"
+    },
+    {
+      "name": "status_cities_found",
+      "value": "%d cities found"
+    },
+    {
+      "name": "percent_value",
+      "value": "%d%%"
+    },
+    {
+      "name": "wind_speed_value",
+      "value": "%dkph"
+    },
+    {
+      "name": "precipitation_value",
+      "value": "%smm"
+    },
+    {
+      "name": "page_indicator",
+      "value": "%d/%d"
+    },
+    {
+      "name": "no_cities_found",
+      "value": "No cities found"
+    },
+    {
+      "name": "status_updating",
+      "value": "Updating..."
+    },
+    {
+      "name": "status_live_weather",
+      "value": "Live weather"
+    },
+    {
+      "name": "status_using_cached_data",
+      "value": "Using cached data"
+    },
+    {
+      "name": "label_day",
+      "value": "Day"
+    },
+    {
+      "name": "label_night",
+      "value": "Night"
+    },
+    {
+      "name": "condition_separator",
+      "value": "-"
+    },
+    {
+      "name": "uv_low",
+      "value": "Low"
+    },
+    {
+      "name": "uv_moderate",
+      "value": "Moderate"
+    },
+    {
+      "name": "uv_high",
+      "value": "High"
+    },
+    {
+      "name": "uv_very_high",
+      "value": "Very high"
+    },
+    {
+      "name": "section_comfort",
+      "value": "Comfort"
+    },
+    {
+      "name": "section_wind_rain",
+      "value": "Wind & Rain"
+    },
+    {
+      "name": "section_sun",
+      "value": "Sun"
+    },
+    {
+      "name": "metric_feels",
+      "value": "Feels"
+    },
+    {
+      "name": "metric_humidity",
+      "value": "Humidity"
+    },
+    {
+      "name": "metric_clouds",
+      "value": "Clouds"
+    },
+    {
+      "name": "metric_pressure",
+      "value": "Pressure"
+    },
+    {
+      "name": "metric_wind",
+      "value": "Wind"
+    },
+    {
+      "name": "metric_direction",
+      "value": "Dir"
+    },
+    {
+      "name": "metric_rain",
+      "value": "Rain"
+    },
+    {
+      "name": "metric_code",
+      "value": "Code"
+    },
+    {
+      "name": "metric_uv",
+      "value": "UV"
+    },
+    {
+      "name": "metric_risk",
+      "value": "Risk"
+    },
+    {
+      "name": "metric_light",
+      "value": "Light"
+    },
+    {
+      "name": "metric_source",
+      "value": "Source"
     }
   ]
 }
